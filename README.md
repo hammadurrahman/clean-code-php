@@ -140,7 +140,7 @@ $user->access ^= 2;
 ```
 
 **Good:**
-
+     * [Avoid Mental Mapping](#avoid-mental-mapping)
 ```php
 class User
 {
